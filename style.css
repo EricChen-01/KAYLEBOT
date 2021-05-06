@@ -93,7 +93,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('KAYLE.png') no-repeat; /*'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg'*/
+	background: url('backgroundImage.png') no-repeat; /*'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg'*/
 	background-size: cover;
 	background-position:center;
     position: absolute;
