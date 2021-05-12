@@ -296,10 +296,10 @@ a.nav-link{
 }
 
 /*──────────────────
-      Memes commands
+      Moderation commands
 ──────────────────*/
 
-#memes{
+#moderation{
   margin-top:100px;
     height: 100%;
 	display: flex;
@@ -310,7 +310,7 @@ a.nav-link{
 	color: var(--main-fonts-color);
 }
 
-#memes p{
+#moderation p{
   padding:10px;
 	text-align:center;
 	font-size:1.2rem;
